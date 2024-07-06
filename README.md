@@ -1,5 +1,5 @@
 # Note
 
 > 개발 정리 노트   
-> https://github.com/HB0511/Note/wiki
+> [노트정리](https://github.com/HB0511/Note/wiki)
 > 
